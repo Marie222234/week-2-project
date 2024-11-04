@@ -1,0 +1,25 @@
+.blue-titles{
+    color:blue;
+}
+
+h1 {
+    font-weight:bold;
+}
+
+#main_page_sub{
+    font-size:2em;
+}
+body{
+    background-color: aqua;
+
+}
+
+.nav-container{
+    display:flex;
+list-style-type: none;
+gap:8px;
+border: 1px solid
+black;
+}padding-box 1pixel
+
+
