@@ -5,3 +5,10 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Marie222234/week-2-project.git
 git push -u origin main
+
+
+
+//when making changes to a project run these commands
+git add .
+git commit -m "your commit message here..."
+git push
